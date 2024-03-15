@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[441],{787:function(t,s,n){"use strict";n.r(s);var o=n(4),e=Object(o.a)({},(function(){var t=this._self._c;return t("ContentSlotsDistributor",{attrs:{"slot-key":this.$parent.slotKey}},[t("p",[this._v("https://advertising.amazon.com/resources/ad-policy/brand-profile")])])}),[],!1,null,null,null);s.default=e.exports}}]);
